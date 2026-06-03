@@ -1,6 +1,6 @@
 cask "aerotone" do
   version "1.0.0"
-  sha256 "578122feaa1a126c9b1a6e429b66ee82c5b939354489fbb4ecc309416995f95e"
+  sha256 "b3261566bc672448d2c84f08e84bb81f885046f5018b8026ebcb57982c0f05ed"
 
   url "https://github.com/abhinav-gothwal-007/AeroTone/releases/download/v#{version}/AeroTone-#{version}.dmg"
   name "AeroTone"
